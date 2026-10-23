@@ -1,7 +1,7 @@
 # procsearch
 
 Finds running processes and loaded modules by name. It is a clean Go reimplementation
-of the "search" logic recovered from `../CS2ESP161026/test.exe`. Standard library only.
+of the "search" logic recovered from `../test.exe`. Standard library only.
 
 ```
 make            # fmt, vet (linux/windows/darwin), test, build
